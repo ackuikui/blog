@@ -20,4 +20,5 @@
 ```
 
 ## 部署
-docs文件夹中写markdown文章后，`npm run build`，将生成blog文件夹上传到服务器
+docs文件夹中写markdown文章后，`npm run build`， 
+将生成 blog 文件夹 和 public 文件夹，上传到服务器

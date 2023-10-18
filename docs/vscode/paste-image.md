@@ -5,7 +5,6 @@
 ### 1. vscode安装`Paste Image`扩展程序
 
 ### 2. 修改vscode设置，增加如这几行
-![](/public/paste-image/2023-10-17-18-02-49.png)
 ``` json
 {
     "pasteImage.path": "${projectRoot}/public/${currentFileNameWithoutExt}",

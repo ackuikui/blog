@@ -11,7 +11,7 @@
 - config vscode `setting.json`  
 ``` json
 {
-    "pasteImage.path": "${projectRoot}/blog/public/${currentFileNameWithoutExt}",
+    "pasteImage.path": "${projectRoot}/public/${currentFileNameWithoutExt}",
     "pasteImage.basePath": "${projectRoot}",
     "pasteImage.forceUnixStyleSeparator": true,
     "pasteImage.prefix": "/",
